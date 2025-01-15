@@ -11,7 +11,7 @@ import {
 const Footer: React.FC = () => {
   return (
     <footer className="border-t	border-gray-400 py-8">
-      <div className="container mx-auto flex flex-col lg:flex-row justify-between items-start px-4">
+      <div className="container mx-auto flex flex-col lg:flex-row justify-between items-start px-16">
         {/* Left Section - Social Icons and Copyright */}
         <div className="space-y-4 mb-6 lg:mb-0">
           <h3 className="text-sm font-bold">FOLLOW US</h3>

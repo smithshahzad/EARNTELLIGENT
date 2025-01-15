@@ -45,7 +45,7 @@ const blogs = [
     description:
       "There are detailed plans for what to do about new nuclear weapons in Project 2025. So what can we expect? More of them, a lot more of...",
     author: "Matthew Gault",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://placehold.co/300x200",
   },
   {
     category: "AMAZON",
@@ -54,7 +54,7 @@ const blogs = [
     description:
       "A new committee report on working conditions at the e-commerce giant says that Amazon knows the risks to worker safety and routine...",
     author: "Lucas Ropek",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://placehold.co/300x200",
   },
   {
     category: "ARTIFICIAL INTELLIGENCE",
@@ -62,7 +62,7 @@ const blogs = [
     description:
       "An AI system suggests snack recipes based on desired characteristics, like flavor and aroma.",
     author: "Thomas Maxwell",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://placehold.co/300x200",
   },
   {
     category: "HEALTH",
@@ -71,7 +71,7 @@ const blogs = [
     description:
       "Several recent studies have found a possible connection between semaglutide use and a rare condition that causes sudden vision loss.",
     author: "Ed Cara",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://placehold.co/300x200",
   },
 ];
 

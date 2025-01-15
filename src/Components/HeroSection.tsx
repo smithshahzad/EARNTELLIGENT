@@ -9,7 +9,7 @@ const HeroSection: React.FC = () => {
           {/* Image */}
           <div className="relative">
             <img
-              src="https://via.placeholder.com/600x400"
+              src="https://placehold.co/600x400"
               alt="Filming"
               className="w-full h-auto object-cover"
             />
@@ -23,7 +23,8 @@ const HeroSection: React.FC = () => {
               One of the year’s best movies was filmed in first person
             </h1>
             <p className="mt-4 text-gray-400">
-              Nickel Boys director RaMell Ross shares his point of view with the world.
+              Nickel Boys director RaMell Ross shares his point of view with the
+              world.
             </p>
             <div className="mt-4 flex items-center text-sm text-gray-400 space-x-4">
               <span className="text-green-400 font-bold">KEVIN NGUYEN</span>
@@ -36,7 +37,9 @@ const HeroSection: React.FC = () => {
 
         {/* Right Section - Top Stories */}
         <div className="lg:w-1/3 p-4">
-          <h2 className="text-green-400 text-2xl font-bold mb-4">Top Stories</h2>
+          <h2 className="text-green-400 text-2xl font-bold mb-4">
+            Top Stories
+          </h2>
           <div className="space-y-6">
             {/* Story Item */}
             {topStories.map((story, index) => (
@@ -51,7 +54,8 @@ const HeroSection: React.FC = () => {
                     {story.title}
                   </h3>
                   <p className="text-xs text-gray-400 mt-1">
-                    {story.author} <span className="mx-2">|</span> {story.date} <span className="mx-2">|</span> {story.comments} comments
+                    {story.author} <span className="mx-2">|</span> {story.date}{" "}
+                    <span className="mx-2">|</span> {story.comments} comments
                   </p>
                 </div>
                 {/* Thumbnail */}
@@ -71,39 +75,40 @@ const HeroSection: React.FC = () => {
 
 const topStories = [
   {
-    title: "Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech",
+    title:
+      "Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech",
     author: "ALEX HEATH",
     date: "Two hours ago",
     comments: 2,
-    thumbnail: "https://via.placeholder.com/100",
+    thumbnail: "https://placehold.co/100",
   },
   {
     title: "Infinity Nikki is a fashion-forward Zelda",
     author: "ASH PARRISH",
     date: "DEC 14",
     comments: 11,
-    thumbnail: "https://via.placeholder.com/100",
+    thumbnail: "https://placehold.co/100",
   },
   {
     title: "The musical at the end of the world",
     author: "ROBYN KANNER",
     date: "DEC 15",
     comments: 8,
-    thumbnail: "https://via.placeholder.com/100",
+    thumbnail: "https://placehold.co/100",
   },
   {
     title: "Europe’s Starlink competitor is go",
     author: "THOMAS RICKER",
     date: "5:07 PM GMT+5",
     comments: 19,
-    thumbnail: "https://via.placeholder.com/100",
+    thumbnail: "https://placehold.co/100",
   },
   {
     title: "A worthy update to my favorite mobile game ever",
     author: "DAVID PIERCE",
     date: "DEC 15",
     comments: 33,
-    thumbnail: "https://via.placeholder.com/100",
+    thumbnail: "https://placehold.co/100",
   },
 ];
 

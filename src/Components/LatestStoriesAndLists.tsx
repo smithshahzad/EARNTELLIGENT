@@ -76,7 +76,7 @@ const stories = [
       "Small businesses lean into 'cozy' and 'festive' trends this holiday season",
     description:
       "Comforting items are selling this holiday season: Scarves, hats and gloves, humorous Christmas and Hanukkah cards and bright colors.",
-    image: "https://via.placeholder.com/150",
+    image: "https://placehold.co/150",
   },
   {
     category: "TECH",
@@ -84,14 +84,14 @@ const stories = [
       "'Being a teen mom doesn't mean you're a sh***y parent': TikTok's teen moms are making big money",
     description:
       "Social media influencers like MariClare Maclamroc earn tens of thousands per month by posting about teen motherhood.",
-    image: "https://via.placeholder.com/150",
+    image: "https://placehold.co/150",
   },
   {
     category: "NEWS",
     title: "Bank of America makes its 2025 housing market predictions",
     description:
       "Rising housing market inventory will slow national home price appreciation next year, predicts Bank of America.",
-    image: "https://via.placeholder.com/150",
+    image: "https://placehold.co/150",
   },
   {
     category: "DESIGN",
@@ -99,7 +99,7 @@ const stories = [
       "Small businesses lean into 'cozy' and 'festive' trends this holiday season",
     description:
       "Comforting items are selling this holiday season: Scarves, hats and gloves, humorous Christmas and Hanukkah cards and bright colors.",
-    image: "https://via.placeholder.com/150",
+    image: "https://placehold.co/150",
   },
   {
     category: "TECH",
@@ -107,14 +107,14 @@ const stories = [
       "'Being a teen mom doesn't mean you're a sh***y parent': TikTok's teen moms are making big money",
     description:
       "Social media influencers like MariClare Maclamroc earn tens of thousands per month by posting about teen motherhood.",
-    image: "https://via.placeholder.com/150",
+    image: "https://placehold.co/150",
   },
   {
     category: "NEWS",
     title: "Bank of America makes its 2025 housing market predictions",
     description:
       "Rising housing market inventory will slow national home price appreciation next year, predicts Bank of America.",
-    image: "https://via.placeholder.com/150",
+    image: "https://placehold.co/150",
   },
 ];
 
